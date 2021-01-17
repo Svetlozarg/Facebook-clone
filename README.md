@@ -1,4 +1,9 @@
-# facebook-app
+# Facebook-Clone
+
+● Developed as a personal project
+● Architected with Vue.js and Firebase
+● Facebook clone where a user can login to their
+  account and add posts with images and text.
 
 ## Project setup
 ```
